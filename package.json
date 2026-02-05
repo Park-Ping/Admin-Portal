@@ -2,7 +2,6 @@
   "name": "parkping-admin-dashboard",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
 
   "scripts": {
     "dev": "vite",
@@ -49,3 +48,4 @@
     "vite-tsconfig-paths": "3.6.0"
   }
 }
+
